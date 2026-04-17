@@ -1,0 +1,21 @@
+# Archivos de compilación y carpetas temporales
+target/
+build/
+bin/
+out/
+
+# Configuración del IDE (IntelliJ, Eclipse, VS Code)
+.idea/
+.vscode/
+.settings/
+.classpath
+.project
+*.iml
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Logs y archivos temporales
+*.log
+*.tmp
